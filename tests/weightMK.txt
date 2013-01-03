@@ -1,0 +1,3 @@
+Primer	End	Start	Stop	Weight	PBase	TBase
+*	5	*	*	1	N	!
+*	5	*	*	1	M	K

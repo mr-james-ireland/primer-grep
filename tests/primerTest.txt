@@ -1,0 +1,2 @@
+id	left	right	amp
+test1	aatctgatgagcctccttttt	tccttcccctcagacactt	180
