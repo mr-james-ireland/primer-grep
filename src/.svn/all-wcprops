@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/pgrep/!svn/ver/7/pgrep64/src
+END
+BlastInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/pgrep/!svn/ver/1/pgrep64/src/BlastInfo.h
+END
+PrimerPair.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/pgrep/!svn/ver/1/pgrep64/src/PrimerPair.cpp
+END
+TargetCache.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/pgrep/!svn/ver/8/pgrep64/src/TargetCache.cpp
+END
+pgrep
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/pgrep/!svn/ver/7/pgrep64/src/pgrep
+END
+PrimerPair.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/pgrep/!svn/ver/1/pgrep64/src/PrimerPair.h
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/pgrep/!svn/ver/1/pgrep64/src/makefile
+END
+TargetCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/pgrep/!svn/ver/8/pgrep64/src/TargetCache.h
+END
+Properties.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/pgrep/!svn/ver/8/pgrep64/src/Properties.h
+END
+WeightMatrix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/pgrep/!svn/ver/1/pgrep64/src/WeightMatrix.cpp
+END
+PrimerSearch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/pgrep/!svn/ver/8/pgrep64/src/PrimerSearch.cpp
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/pgrep/!svn/ver/1/pgrep64/src/README.txt
+END
+WeightMatrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/pgrep/!svn/ver/1/pgrep64/src/WeightMatrix.h
+END
+PrimerSearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/pgrep/!svn/ver/1/pgrep64/src/PrimerSearch.h
+END
+PrimingSite.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/pgrep/!svn/ver/1/pgrep64/src/PrimingSite.cpp
+END
+multi_gene_hla_passed.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/pgrep/!svn/ver/8/pgrep64/src/multi_gene_hla_passed.txt
+END
+pgrep.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/pgrep/!svn/ver/8/pgrep64/src/pgrep.cpp
+END
+BlastInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/pgrep/!svn/ver/8/pgrep64/src/BlastInfo.cpp
+END
+generatePgrepDB.pl
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/pgrep/!svn/ver/1/pgrep64/src/generatePgrepDB.pl
+END
+PrimingSite.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/pgrep/!svn/ver/1/pgrep64/src/PrimingSite.h
+END
