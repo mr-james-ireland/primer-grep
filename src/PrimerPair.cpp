@@ -1,6 +1,7 @@
 #include "PrimerPair.h"
 #include <iostream>
 #include <string>
+#include <string.h>
 
 /////////////////////////////////////////////////////////////////////////////////
 // Copyright (C) 2007 Affymetrix, Inc.                                         //

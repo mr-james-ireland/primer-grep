@@ -1,6 +1,7 @@
 #include "PrimingSite.h"
 #include <string>
 #include <iostream>
+#include <string.h>
 
 /////////////////////////////////////////////////////////////////////////////////
 // Copyright (C) 2007 Affymetrix, Inc.                                         //

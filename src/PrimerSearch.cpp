@@ -1,7 +1,7 @@
 #include "PrimerSearch.h"
 //#include "Properties.h"
 #include <string>
-
+#include <string.h>
 
 /////////////////////////////////////////////////////////////////////////////////
 // Copyright (C) 2007 Affymetrix, Inc.                                         //

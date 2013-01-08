@@ -26,7 +26,9 @@
 #include <iostream>
 #include <fstream>
 #include <string>
+#include <string.h>
 #include <vector>
+#include <stdlib.h>
 
 #include "Properties.h"
 #include "TargetCache.h"

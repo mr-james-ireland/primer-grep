@@ -1,9 +1,11 @@
 
 #include <string>
+#include <string.h>
 #include <vector>
 #include <iostream>
 #include <fstream>
 #include "WeightMatrix.h"
+#include <stdlib.h>
 //#include "Properties.h"
 
 /////////////////////////////////////////////////////////////////////////////////

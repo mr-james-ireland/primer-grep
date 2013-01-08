@@ -1,6 +1,7 @@
 #include "TargetCache.h"
 //#include "PrimerSearch.h"
 #include <string>
+#include <string.h>
 #include <iostream>
 
 /////////////////////////////////////////////////////////////////////////////////
