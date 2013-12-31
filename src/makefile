@@ -7,7 +7,7 @@ CFLAGS=-c -m64 -Wall -O3
 
 SOURCES=BlastInfo.cpp PrimerPair.cpp PrimingSite.cpp TargetCache.cpp WeightMatrix.cpp PrimerSearch.cpp pgrep.cpp 
 OBJECTS=$(SOURCES:.cpp=.o)
-EXECUTABLE=pgrep
+EXECUTABLE=primer-grep
 
 all: $(SOURCES) $(EXECUTABLE)
 	
@@ -18,5 +18,5 @@ $(EXECUTABLE): $(OBJECTS)
 	$(CC) $(CFLAGS) $< -o $@
 	
 clean:
-	rm -rf *o pgrep
+	rm -rf *o primer-grep
 
