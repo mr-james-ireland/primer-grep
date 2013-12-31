@@ -1249,9 +1249,6 @@ int main(int argc, char *argv[]) {
       }
     }
   }
-  // TIMING - REMOVE
-  complete=clock();
-  long lTime=(complete-commence);
   //std::cerr << lTime << "\n";
   
   if (primersFromStdin && maxReturned > 0 && nReturned < maxReturned) {

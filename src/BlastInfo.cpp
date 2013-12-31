@@ -1,6 +1,6 @@
 #include "BlastInfo.h"
-#include <string.h>
 #include <string>
+#include <string.h>
 
 BlastInfo::BlastInfo(char *name, int offset, int length) {
   strcpy(seqName, name);
